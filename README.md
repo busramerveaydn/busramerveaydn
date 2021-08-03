@@ -1,4 +1,5 @@
 [![GitHub followers](https://img.shields.io/github/followers/busramerveaydn?style=social)](https://github.com/busramerveaydn?tab=followers)
+[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=busramerveaydn.visitor-badge)](https://GitHub.com/busramerveaydn/StrapDown.js/stargazers/)
 
 ### Hi there I'm Büşra Merve Aydın 👋
 
