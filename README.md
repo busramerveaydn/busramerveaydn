@@ -1,4 +1,4 @@
-# CV 
+## CV 
 [Büşra Merve Aydın Özgeçmiş .pdf](https://github.com/busramerveaydn/busramerveaydn/files/7121658/Busra.Merve.Aydin.Ozgecmis.pdf)
 
 
