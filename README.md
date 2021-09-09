@@ -1,4 +1,5 @@
-## CV [Büşra Merve Aydın Özgeçmiş .pdf](https://github.com/busramerveaydn/busramerveaydn/files/7121658/Busra.Merve.Aydin.Ozgecmis.pdf)
+## CV [Büşra Merve Aydın Özgeçmiş .pdf](https://github.com/busramerveaydn/busramerveaydn/files/7134737/Busra.Merve.Aydin.Ozgecmis.pdf)
+
 
 
 [![GitHub followers](https://img.shields.io/github/followers/busramerveaydn?style=social)](https://github.com/busramerveaydn?tab=followers)
