@@ -27,6 +27,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=white"></img>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></img>
 <img src="https://img.shields.io/badge/ASP.Net-black?style=for-the-badge&logo=dotnet&logoColor=white"></img>
+<img src="https://img.shields.io/badge/MSSQL-black?style=for-the-badge&logo=sql&logoColor=white"></img>
 
 
 <div align="center" height=100>
