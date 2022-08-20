@@ -3,7 +3,8 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/busramerveaydn?style=social)](https://github.com/busramerveaydn?tab=followers)
 
-### Hi there I'm Büşra Merve Aydın 👋
+### Hi there I'm Büşra Merve Aydın 👋[Büşra Merve Aydın Özgeçmiş .pdf](https://github.com/busramerveaydn/busramerveaydn/files/9387029/Busra.Merve.Aydin.Ozgecmis.pdf)
+
 
 
 <a href="https://www.linkedin.com/in/busramerveaydin/" target="_blank" rel="nofollow"><img alt="Merve's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -23,6 +24,8 @@
 <img src="https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
 <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=PostgreSQL&logoColor=white"></img>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></img>
+<img src="https://img.shields.io/badge/ASP.Net-black?style=for-the-badge&logo=dotnet&logoColor=white"></img>
+
 
 <div align="center" height=100>
  <img height=177  src="https://github-readme-stats.vercel.app/api?username=busramerveaydn&show_icons=true&theme=white">
