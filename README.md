@@ -3,8 +3,10 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/busramerveaydn?style=social)](https://github.com/busramerveaydn?tab=followers)
 
-### Hi there I'm Büşra Merve Aydın 👋[<img src="https://img.shields.io/badge/Özgeçmiş-black?style=for-the-badge&logo=dotnet&logoColor=white"></img>(https://github.com/busramerveaydn/busramerveaydn/files/9387029/Busra.Merve.Aydin.Ozgecmis.pdf)
+### Hi there I'm Büşra Merve Aydın 👋
 
+
+[Büşra Merve Aydın Özgeçmiş .pdf](https://github.com/busramerveaydn/busramerveaydn/files/9387030/Busra.Merve.Aydin.Ozgecmis.pdf)
 
 
 <a href="https://www.linkedin.com/in/busramerveaydin/" target="_blank" rel="nofollow"><img alt="Merve's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
