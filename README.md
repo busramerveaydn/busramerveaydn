@@ -5,8 +5,8 @@
 
 ### Hi there I'm Büşra Merve Aydın 👋
 
+[Büşra Merve Aydın Yaşar.pdf](https://github.com/user-attachments/files/19475139/Busra.Merve.Aydin.Yasar.pdf)
 
-[Büşra Merve Aydın Özgeçmiş.pdf](https://github.com/busramerveaydn/busramerveaydn/files/11952222/Busra.Merve.Aydin.Ozgecmis.pdf)
 
 
 <a href="https://www.linkedin.com/in/busramerveaydin/" target="_blank" rel="nofollow"><img alt="Merve's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
