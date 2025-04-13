@@ -5,7 +5,9 @@
 
 ### Hi there I'm Büşra Merve Aydın 👋
 
-[Büşra Merve Aydın Yaşar.pdf](https://github.com/user-attachments/files/19475139/Busra.Merve.Aydin.Yasar.pdf)
+[Büşra_Merve Aydın_Yaşar_CV.pdf](https://github.com/user-attachments/files/19726203/Busra_Merve.Aydin_Yasar_CV.pdf)
+
+
 
 
 
